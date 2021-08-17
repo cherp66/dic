@@ -1,0 +1,19 @@
+{
+    "name": "cherp66/dic",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nicolay-Cherpinskiy",
+            "email": "twin-ss@mail.ru"
+        }
+    ], 
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chsoft\\Dic\\": "vendor/cherp66/dic/src/"
+        }
+    }
+}
